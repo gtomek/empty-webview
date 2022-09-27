@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My WebView app</string>
+    <string name="below_is_your_web_view_content">Below is your Web View content</string>
+</resources>
